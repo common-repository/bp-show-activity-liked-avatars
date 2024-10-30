@@ -1,0 +1,9 @@
+.bsala-avatars-list  li{
+display:inline !important;
+}
+.bsala-avatars-list .avatar{
+float:none !important;
+}
+.bsala-max-fav-box{
+  display: none;
+}
